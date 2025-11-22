@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Raylson Carvalho
 
-<!--
-**rayls7/rayls7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e muito curioso por tudo que envolve desenvolvimento. Hoje estudo diariamente para me tornar desenvolvedor, criando projetos reais e evoluindo minhas habilidades.
 
-Here are some ideas to get you started:
+## 🚀 O que faço atualmente
+Trabalho como **Suporte Técnico Externo**, realizando manutenção em POS (maquininhas de cartão) e atendimentos presenciais em estabelecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também atuo internamente com:
+- Manutenção e configuração de **servidores**
+- Suporte e reparo de **computadores**
+- Organização e estruturação de **rede e cabeamento**
+- Atendimentos técnicos em outras cidades
+
+Essa experiência me deu uma base prática em infraestrutura, diagnóstico e resolução de problemas — habilidades que aplico no meu caminho como desenvolvedor.
+
+## 🧠 Tecnologias que estou estudando
+- JavaScript / TypeScript  
+- React  
+- Next.js  
+- Node.js  
+- TailwindCSS  
+- Git & GitHub  
+
+## 📱 Projetos
+(Em breve destaco aqui os melhores projetos do meu GitHub.)
+
+## 🎯 Objetivo
+Conquistar minha primeira oportunidade como **Desenvolvedor Júnior (Front-end ou Full Stack)**, preferencialmente em modelo **home office**.
+
+---
+
+📬 **LinkedIn:** https://www.linkedin.com/in/raylson-carvalho-8733981a7/  
+📂 **GitHub:** https://github.com/rayls7
