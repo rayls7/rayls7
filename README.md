@@ -1,7 +1,7 @@
 Olá!
 Eu sou o Raylson Carvalho
 Sou apaixonado por tecnologia e muito curioso por tudo que envolve desenvolvimento. Hoje estudo diariamente para me tornar desenvolvedor, criando projetos reais e evoluindo minhas habilidades.
-O que faço atualmente
+O que faço atualmente:
 Trabalho como **Suporte Técnico Externo**, realizando manutenção em POS (maquininhas de cartão) e atendimentos presenciais em estabelecimentos.
 Também atuo internamente com:
 - Manutenção e configuração de **servidores**
